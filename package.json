@@ -1,0 +1,21 @@
+{
+  "name": "av1esii-brunacelianeeduardomateus",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brunn4/AV1ESII-BrunaCelianeEduardoMateus.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/brunn4/AV1ESII-BrunaCelianeEduardoMateus/issues"
+  },
+  "homepage": "https://github.com/brunn4/AV1ESII-BrunaCelianeEduardoMateus#readme"
+}
